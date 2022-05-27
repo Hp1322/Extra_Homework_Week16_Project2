@@ -1,4 +1,4 @@
-
+@Online
 Feature: Create account Test
   As a User I want to create account in automation website
   @test01

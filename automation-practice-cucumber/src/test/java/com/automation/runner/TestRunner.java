@@ -14,7 +14,7 @@ import org.junit.runner.RunWith;
                 "com.cucumber.listener.ExtentCucumberFormatter:target/Extent_Reports/report.html"
         }
 
-        ,tags = "@test03"
+        ,tags = "@Online"
 
 
 )
